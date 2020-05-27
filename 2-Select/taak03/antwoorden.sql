@@ -1,5 +1,5 @@
 -- Opdracht 1 
-
+SELECT * FROM players where nationality = "spain" and club = "Chelsea"
 -- Opdracht 2 
 
 -- Opdracht 3
